@@ -1,0 +1,10 @@
+body {
+      backround-color: #b3ecff; /* warna biru cerah */
+      font-family: Arial,sans-serif; /* jenis huruf yang bersih dan mudah di baca */
+      color:#3333ff; /* warna teks utama (biru gelap) */
+}
+.kartu profil { 
+  width: 300px;
+  margin: 50px auto; /* membuat sudutmenjadi melengkung  */
+box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan  */
+}
