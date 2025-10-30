@@ -1,7 +1,7 @@
 body {
       backround-color: #b3ecff; /* warna biru cerah */
       font-family: Arial,sans-serif; /* jenis huruf yang bersih dan mudah di baca */
-      color:#3333ff; /* warna teks utama (biru gelap) */
+      color:#000066; /* warna teks utama (biru gelap) */
 }
 .kartu profil { 
   width: 300px;
