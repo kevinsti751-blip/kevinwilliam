@@ -5,6 +5,9 @@ body {
 }
 .kartu profil { 
   width: 300px;
-  margin: 50px auto; /* membuat sudutmenjadi melengkung  */
+  margin: 50px auto;/* 50px jarak atas/bawah, auto menengah kiri/kanan*/
+padding: 20px;
+baground color: white;
+border-radius: 15px;/*membuat foto menjadi melengkung*/
 box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan  */
 }
